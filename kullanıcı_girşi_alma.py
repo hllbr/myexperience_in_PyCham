@@ -12,4 +12,4 @@ if(grln_ıd == sys_kullanıcı_ıd and grln_prl == sys_parola):
 elif(grln_ıd != sys_kullanıcı_ıd or grln_prl !=sys_parola ):
     print("nereye hemşerim")
 else:
-    print("potato qnqs yanlış emcuğa çaktun dostum")
+    print("potato qnqs yanlış adama dostum")
